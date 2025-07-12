@@ -101,3 +101,7 @@ Or install from Pydroid 3 > Pip menu (if using Android).
 
 Sanyojita Ubale
 GitHub Profile
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/55a4ecac-53f8-4444-b1c8-46e0057b6b1b)
