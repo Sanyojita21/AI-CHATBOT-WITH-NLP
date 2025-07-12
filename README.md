@@ -12,27 +12,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
- 📊 Automated Report Generation
-
-This project is a simple Python script that reads student names and scores, analyzes the data, and generates a formatted PDF report. It demonstrates how to automate report creation using the reportlab library in Python.
-
----
-
-## 🚀 Features
-
-- Reads data (student names and scores)
-- Calculates average score
-- Generates a clean, formatted PDF report
-- Easy to run on mobile using Pydroid 3 or any Python IDE
-
----
-
-## 🧰 Tools & Technologies
-
-| Tool        | Description                            |
-|-------------|----------------------------------------|
-| …
-[5:46 pm, 12/7/2025] Junior 105: 📊 Automated Report Generation
+📊 Automated Report Generation
 
 This project is a simple Python script that reads student names and scores, analyzes the data, and generates a formatted PDF report. It demonstrates how to automate report creation using the reportlab library in Python.
 
